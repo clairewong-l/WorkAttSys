@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "moment": "^2.29.1",
+    "vuex": "^3.6.2"
+  }
+}

@@ -1,0 +1,3 @@
+.recordChart /deep/ .el-calendar-table .el-calendar-day {
+    height: 30px;
+}

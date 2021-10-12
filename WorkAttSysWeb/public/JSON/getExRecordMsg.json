@@ -1,0 +1,33 @@
+{
+    "status":1,
+    "data":[
+        {
+            "id":"S2333",
+            "name":"张三",
+            "datetime":"2021-7-10",
+            "department":"前台",
+            "status":"请假"
+        },
+        {
+            "id":"S2334",
+            "name":"李四",
+            "datetime":"2021-7-10",
+            "department":"前台",
+            "status":"迟到"
+        },
+        {
+            "id":"S2335",
+            "name":"王五",
+            "datetime":"2021-7-10",
+            "department":"前台",
+            "status":"请假"
+        },
+        {
+            "id":"S2336",
+            "name":"赵六",
+            "datetime":"2021-7-10",
+            "department":"前台",
+            "status":"缺勤"
+        }
+    ]
+}

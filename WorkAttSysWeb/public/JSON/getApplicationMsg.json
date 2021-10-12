@@ -1,0 +1,55 @@
+{
+    "status": 1,
+    "data": [
+        {
+            "application_id": 1,
+            "type": "请假",
+            "name": "隔壁老王",
+            "staff_id": "S23333",
+            "head_img": "images/head1.jpg",
+            "datetime": "2021-7-10 11:30:20",
+            "department": "销售",
+            "info": "隔壁老王申请7-20至7-21请假，备注是我老婆生孩子了"
+        },
+        {
+            "application_id": 2,
+            "type": "请假",
+            "name": "贾同学",
+            "staff_id": "S23334",
+            "head_img": "images/head1.jpg",
+            "datetime": "2021-7-12 15:30:20",
+            "department": "前台",
+            "info": "我老婆也生孩子了"
+        },
+        {
+            "application_id": 3,
+            "type": "入职",
+            "name": "隔壁老王",
+            "staff_id": "S23333",
+            "head_img": "images/head1.jpg",
+            "datetime": "2021-7-10 11:30:20",
+            "department": "销售",
+            "info": "求收留"
+        },
+        {
+            "application_id": 4,
+            "type": "入职",
+            "name": "张三",
+            "staff_id": "S23334",
+            "head_img": "images/head1.jpg",
+            "datetime": "2021-7-12 15:30:20",
+            "department": "前台",
+            "info": "求收留"
+        },
+        {
+            "application_id": 5,
+            "type": "入职",
+            "name": "隔壁老王",
+            "staff_id": "S23335",
+            "head_img": "images/head1.jpg",
+            "datetime": "2021-7-19 12:30:20",
+            "department": "销售",
+            "info": "求收留"
+        }
+    ]
+}

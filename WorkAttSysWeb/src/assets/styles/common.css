@@ -1,0 +1,24 @@
+/* 常用样式 */
+
+.outer-background{
+    width: 100%;
+    height: 800px; 
+    background-color: papayawhip;
+}
+/* outer、coreBackground 搭配使用*/
+.core-background{
+    width: 100%;
+    height: 700px;
+    position: relative;
+    top: 1px;
+    padding: 3px;
+    background-color: papayawhip;
+}
+
+/* 以省略号显示超出文本 */
+.ellipsis-display-text{
+    width: 95%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

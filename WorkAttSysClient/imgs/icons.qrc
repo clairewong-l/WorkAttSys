@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icon_absent.png</file>
+    <file>icon_pay.png</file>
+    <file>shuaxin.png</file>
+    <file>imformation_logo.png</file>
+    <file>logout_icon.png</file>
+    <file>icon_ToolBar.png</file>
+    <file>arrow-left-filling.png</file>
+    <file>arrow-right-filling.png</file>
+    <file>icon_downarrow.png</file>
+    <file>camera_bkg.png</file>
+    <file>bkg_orange.png</file>
+    <file>riliriqi.png</file>
+    <file>icon_camera.png</file>
+    <file>icon_staff.png</file>
+  </qresource>
+</RCC>
